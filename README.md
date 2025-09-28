@@ -11,7 +11,7 @@ This project explores the CORD-19 dataset (metadata.csv) and builds a simple int
 
 ## How to Run
 1. Clone repo:
-   git clone https://github.com/your-username/Frameworks_Assignment.git
+   git clone https://github.com/j-mareh/Frameworks_Assignment/edit/main/README.md
    cd Frameworks_Assignment
 
 2. Install dependencies:
@@ -32,3 +32,4 @@ This assignment helped me practice:
 - Visualizations with matplotlib and seaborn
 - Building a Streamlit app
 - Using GitHub for version control
+
